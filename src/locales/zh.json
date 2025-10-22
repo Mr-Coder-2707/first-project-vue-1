@@ -1,0 +1,46 @@
+{
+  "profile": {
+    "name": "约翰·多伊",
+    "bio": "欢迎来到我的链接中心！在一个地方找到我所有的重要链接。",
+    "title": "专业链接中心"
+  },
+  "nav": {
+    "theme": "切换主题",
+    "language": "更改语言"
+  },
+  "links": {
+    "portfolio": "我的作品集",
+    "portfolio_desc": "查看我最新的项目和作品",
+    "blog": "博客",
+    "blog_desc": "阅读我的想法和教程",
+    "github": "GitHub 个人资料",
+    "github_desc": "查看我的开源贡献",
+    "youtube": "YouTube 频道",
+    "youtube_desc": "观看我的视频内容",
+    "contact": "联系我",
+    "contact_desc": "与我联系进行合作",
+    "newsletter": "新闻通讯",
+    "newsletter_desc": "订阅我的每周更新"
+  },
+  "social": {
+    "title": "与我联系",
+    "twitter": "推特",
+    "linkedin": "领英",
+    "instagram": "Instagram",
+    "facebook": "Facebook"
+  },
+  "footer": {
+    "copyright": "© 2025 版权所有",
+    "made_with": "使用 Vue.js 制作"
+  },
+  "languages": {
+    "en": "English",
+    "ar": "العربية",
+    "es": "Español",
+    "fr": "Français",
+    "de": "Deutsch",
+    "zh": "中文",
+    "ja": "日本語",
+    "hi": "हिन्दी"
+  }
+}

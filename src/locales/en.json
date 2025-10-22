@@ -1,0 +1,46 @@
+{
+  "profile": {
+    "name": "John Doe",
+    "bio": "Welcome to my link hub! Find all my important links in one place.",
+    "title": "Professional Link Hub"
+  },
+  "nav": {
+    "theme": "Toggle Theme",
+    "language": "Change Language"
+  },
+  "links": {
+    "portfolio": "My Portfolio",
+    "portfolio_desc": "Check out my latest projects and work",
+    "blog": "Blog",
+    "blog_desc": "Read my thoughts and tutorials",
+    "github": "GitHub Profile",
+    "github_desc": "View my open source contributions",
+    "youtube": "YouTube Channel",
+    "youtube_desc": "Watch my video content",
+    "contact": "Contact Me",
+    "contact_desc": "Get in touch for collaborations",
+    "newsletter": "Newsletter",
+    "newsletter_desc": "Subscribe to my weekly updates"
+  },
+  "social": {
+    "title": "Connect With Me",
+    "twitter": "Twitter",
+    "linkedin": "LinkedIn",
+    "instagram": "Instagram",
+    "facebook": "Facebook"
+  },
+  "footer": {
+    "copyright": "© 2025 All Rights Reserved",
+    "made_with": "Made with Vue.js"
+  },
+  "languages": {
+    "en": "English",
+    "ar": "العربية",
+    "es": "Español",
+    "fr": "Français",
+    "de": "Deutsch",
+    "zh": "中文",
+    "ja": "日本語",
+    "hi": "हिन्दी"
+  }
+}

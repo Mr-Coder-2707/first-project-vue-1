@@ -1,0 +1,46 @@
+{
+  "profile": {
+    "name": "John Doe",
+    "bio": "Willkommen in meiner Link-Zentrale! Finde alle meine wichtigen Links an einem Ort.",
+    "title": "Professionelle Link-Zentrale"
+  },
+  "nav": {
+    "theme": "Design Wechseln",
+    "language": "Sprache Ändern"
+  },
+  "links": {
+    "portfolio": "Mein Portfolio",
+    "portfolio_desc": "Schauen Sie sich meine neuesten Projekte und Arbeiten an",
+    "blog": "Blog",
+    "blog_desc": "Lesen Sie meine Gedanken und Tutorials",
+    "github": "GitHub-Profil",
+    "github_desc": "Sehen Sie meine Open-Source-Beiträge",
+    "youtube": "YouTube-Kanal",
+    "youtube_desc": "Sehen Sie sich meine Videoinhalte an",
+    "contact": "Kontaktieren Sie Mich",
+    "contact_desc": "Nehmen Sie Kontakt für Kooperationen auf",
+    "newsletter": "Newsletter",
+    "newsletter_desc": "Abonnieren Sie meine wöchentlichen Updates"
+  },
+  "social": {
+    "title": "Verbinden Sie Sich Mit Mir",
+    "twitter": "Twitter",
+    "linkedin": "LinkedIn",
+    "instagram": "Instagram",
+    "facebook": "Facebook"
+  },
+  "footer": {
+    "copyright": "© 2025 Alle Rechte Vorbehalten",
+    "made_with": "Erstellt mit Vue.js"
+  },
+  "languages": {
+    "en": "English",
+    "ar": "العربية",
+    "es": "Español",
+    "fr": "Français",
+    "de": "Deutsch",
+    "zh": "中文",
+    "ja": "日本語",
+    "hi": "हिन्दी"
+  }
+}

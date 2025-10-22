@@ -1,0 +1,46 @@
+{
+  "profile": {
+    "name": "John Doe",
+    "bio": "¡Bienvenido a mi centro de enlaces! Encuentra todos mis enlaces importantes en un solo lugar.",
+    "title": "Centro de Enlaces Profesional"
+  },
+  "nav": {
+    "theme": "Cambiar Tema",
+    "language": "Cambiar Idioma"
+  },
+  "links": {
+    "portfolio": "Mi Portafolio",
+    "portfolio_desc": "Echa un vistazo a mis últimos proyectos y trabajos",
+    "blog": "Blog",
+    "blog_desc": "Lee mis pensamientos y tutoriales",
+    "github": "Perfil de GitHub",
+    "github_desc": "Ve mis contribuciones de código abierto",
+    "youtube": "Canal de YouTube",
+    "youtube_desc": "Mira mi contenido de video",
+    "contact": "Contáctame",
+    "contact_desc": "Ponte en contacto para colaboraciones",
+    "newsletter": "Boletín",
+    "newsletter_desc": "Suscríbete a mis actualizaciones semanales"
+  },
+  "social": {
+    "title": "Conéctate Conmigo",
+    "twitter": "Twitter",
+    "linkedin": "LinkedIn",
+    "instagram": "Instagram",
+    "facebook": "Facebook"
+  },
+  "footer": {
+    "copyright": "© 2025 Todos los Derechos Reservados",
+    "made_with": "Hecho con Vue.js"
+  },
+  "languages": {
+    "en": "English",
+    "ar": "العربية",
+    "es": "Español",
+    "fr": "Français",
+    "de": "Deutsch",
+    "zh": "中文",
+    "ja": "日本語",
+    "hi": "हिन्दी"
+  }
+}

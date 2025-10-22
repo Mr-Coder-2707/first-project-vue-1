@@ -1,0 +1,46 @@
+{
+  "profile": {
+    "name": "ジョン・ドウ",
+    "bio": "私のリンクハブへようこそ！すべての重要なリンクを一か所で見つけてください。",
+    "title": "プロフェッショナルリンクハブ"
+  },
+  "nav": {
+    "theme": "テーマを切り替え",
+    "language": "言語を変更"
+  },
+  "links": {
+    "portfolio": "私のポートフォリオ",
+    "portfolio_desc": "最新のプロジェクトと作品をご覧ください",
+    "blog": "ブログ",
+    "blog_desc": "私の考えとチュートリアルをお読みください",
+    "github": "GitHubプロフィール",
+    "github_desc": "オープンソースへの貢献をご覧ください",
+    "youtube": "YouTubeチャンネル",
+    "youtube_desc": "ビデオコンテンツをご覧ください",
+    "contact": "お問い合わせ",
+    "contact_desc": "コラボレーションのためにお問い合わせください",
+    "newsletter": "ニュースレター",
+    "newsletter_desc": "週刊アップデートを購読する"
+  },
+  "social": {
+    "title": "私とつながる",
+    "twitter": "ツイッター",
+    "linkedin": "リンクトイン",
+    "instagram": "インスタグラム",
+    "facebook": "フェイスブック"
+  },
+  "footer": {
+    "copyright": "© 2025 無断転載禁止",
+    "made_with": "Vue.jsで作成"
+  },
+  "languages": {
+    "en": "English",
+    "ar": "العربية",
+    "es": "Español",
+    "fr": "Français",
+    "de": "Deutsch",
+    "zh": "中文",
+    "ja": "日本語",
+    "hi": "हिन्दी"
+  }
+}
